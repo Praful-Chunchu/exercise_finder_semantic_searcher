@@ -2,7 +2,7 @@
 
 Describe what you want to train in plain English and get the 5 most relevant exercises back, matched by meaning instead of exact keywords.
 
-**Live app:** <paste your Streamlit URL here>
+**Live app:** [exercise-finder.streamlit.app](https://exercise-finder.streamlit.app)
 
 ## Data
 Gym Exercise Dataset (Kaggle, niharika41298): 2,918 exercises with title, description, body part, equipment, type, and level.
